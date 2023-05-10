@@ -23,6 +23,10 @@ body {
   height: fit-content;
 }
 
+.opis {
+  font-style: italic;
+}
+
 p {
   width: fit-content;
 }
